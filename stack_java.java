@@ -1,4 +1,3 @@
-// Java: стек
 import java.util.*;
 
 public class MainStack {
