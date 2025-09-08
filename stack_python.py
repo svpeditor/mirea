@@ -1,6 +1,5 @@
-# Python: стек
 stack = []
 for i in range(1, 6):
-    stack.append(i)   # push
+    stack.append(i)
 while stack:
-    print(stack.pop())  # pop
+    print(stack.pop()) 
