@@ -1,4 +1,3 @@
-// C++: стек
 #include <iostream>
 #include <stack>
 using namespace std;
