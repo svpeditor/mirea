@@ -1,4 +1,3 @@
-// C++: массив
 #include <iostream>
 using namespace std;
 
